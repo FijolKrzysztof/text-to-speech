@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/text-to-speech/static/css/main.407c1efb.chunk.css",
+    "main.js": "/text-to-speech/static/js/main.b8da607e.chunk.js",
+    "main.js.map": "/text-to-speech/static/js/main.b8da607e.chunk.js.map",
+    "runtime-main.js": "/text-to-speech/static/js/runtime-main.2795ba69.js",
+    "runtime-main.js.map": "/text-to-speech/static/js/runtime-main.2795ba69.js.map",
+    "static/css/2.658248ec.chunk.css": "/text-to-speech/static/css/2.658248ec.chunk.css",
+    "static/js/2.319183e2.chunk.js": "/text-to-speech/static/js/2.319183e2.chunk.js",
+    "static/js/2.319183e2.chunk.js.map": "/text-to-speech/static/js/2.319183e2.chunk.js.map",
+    "static/js/3.8178adba.chunk.js": "/text-to-speech/static/js/3.8178adba.chunk.js",
+    "static/js/3.8178adba.chunk.js.map": "/text-to-speech/static/js/3.8178adba.chunk.js.map",
+    "index.html": "/text-to-speech/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/text-to-speech/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.407c1efb.chunk.css.map": "/text-to-speech/static/css/main.407c1efb.chunk.css.map",
+    "static/js/2.319183e2.chunk.js.LICENSE.txt": "/text-to-speech/static/js/2.319183e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2795ba69.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.319183e2.chunk.js",
+    "static/css/main.407c1efb.chunk.css",
+    "static/js/main.b8da607e.chunk.js"
+  ]
+}
